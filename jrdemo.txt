@@ -2,4 +2,4 @@ hello world!
 
 switch a hotfix branch.
 
-test from hotfix change
+test from hotfix change2
